@@ -1,0 +1,18 @@
+# Telegram Scraper Dependencies
+# Instale com: pip3 install -r requirements.txt
+
+# Core
+telethon>=1.24.0
+requests>=2.28.0
+
+# Utilitários
+configparser>=5.0.0
+pytz>=2023.3
+
+# Opcional: para merge de CSV (instalado sob demanda)
+# pandas>=1.5.0
+# numpy>=1.23.0
+
+# Desenvolvimento (opcional)
+# pytest>=7.0.0
+# black>=23.0.0
